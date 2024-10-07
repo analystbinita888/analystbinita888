@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @analystbinita888
+# 👋 Hi, I’m Binita Chand.
 
 I’m an experienced **IT Support Officer** with a growing passion for **Data Analytics**. My journey spans resolving technical issues in IT support to diving deep into data to uncover insights using SQL, R, Python, and Excel.
 
